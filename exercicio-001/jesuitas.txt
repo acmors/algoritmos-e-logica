@@ -1,0 +1,9 @@
+Existem 3 jesuitas e 3 canibais e precisam atravessar um rio e para isso tem um barco.
+Mas ao atravessar a quantidade de canibais não pode ultrapar a de jesuitas. Detalhe que 
+o barco só tem capacidade de atravessar 2 pessoas por vez.
+
+-> Primeiro: Envie 2 canibais, restando somente 1 deles para atravessar e 3 jesuítas.
+
+-> Segundo: Envie 2 jesuítas. De um lado, haverá 2 jesuítas e 2 canibais; restaram 1 jesuíta e 1 canibal para atravessar, portanto, não há nenhuma quantidade em inferioridade.
+
+-> Terceiro: Por último, envie os que restaram e todos terão atravessado o rio em segurança.

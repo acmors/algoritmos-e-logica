@@ -1,0 +1,13 @@
+Hastes: A B C
+Discos: 1 2 3 ->> do menor para o maior
+
+Sequências: 
+    1 - C    
+    2 - B 
+    1 - B 
+    3 - C 
+    1 - A
+    2 - C 
+    1 - C  
+
+Finalizado e ainda respeita o mínimo de 7 jogadas!!
