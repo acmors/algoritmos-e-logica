@@ -1,0 +1,12 @@
+Dona Branca;
+Dona Rosa;
+Dona Violeta;
+
+Ambas usando vestidos branco, rosa e violeta. Porém, nenhuma está usando uma cor que represente seu próprio nome.
+
+Temos as sequintes possíveis combinações: 
+    - dona Branca: vestido rosa
+    - dona Rosa: vestido branco
+    - dona Violeta: vestido violeta 
+
+    ->> na verdade essa é a única combinação possível.

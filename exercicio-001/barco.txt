@@ -1,0 +1,9 @@
+O homem precisa atravessar o rio com um barco que pode carregar apenas o homem e mais uma
+de suas três cargas, que são: Um lobo, um bode e um maço de alfafa.
+
+como o homem pode atravesar o rio sem que nenhuma de suas cargas seja comprometidas?
+
+    - O homem leva primeiro o bode.
+    - Depois leva o lobo e pega o bode de novo.
+    - Depois troca o bode pela alfafa e deixa a alfafa com o lobo.
+    - Por fim pega novamente o bode e pronto.
