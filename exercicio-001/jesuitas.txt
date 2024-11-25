@@ -6,4 +6,4 @@ o barco só tem capacidade de atravessar 2 pessoas por vez.
 
 -> Segundo: Envie 2 jesuítas. De um lado, haverá 2 jesuítas e 2 canibais; restaram 1 jesuíta e 1 canibal para atravessar, portanto, não há nenhuma quantidade em inferioridade.
 
--> Terceiro: Por último, envie os que restaram e todos terão atravessado o rio em segurança.
+-> Terceiro: Por último, envie os que restaram e todos terão atravessado o rio em segurança!
